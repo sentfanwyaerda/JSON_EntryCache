@@ -1,0 +1,28 @@
+[
+	{
+		"id":"abcdef0123456789abcdef0123456789",
+		"timestamp":"",
+		"user":"",
+		"type":"import",
+		"status":"succes",
+		"children":["#"]
+	},
+	{
+		"id":"#",
+		"parent":"abcdef0123456789abcdef0123456789",
+		"type":"entry",
+		"status":"open",
+		"stage":[
+			{
+				"timestamp":"",
+				"user":"",
+				"mode":"bot",
+				"ignore":{},
+				"add":{},
+				"remove":[],
+				"replace":{},
+				"merge":{}
+			}
+		],
+	}
+]
